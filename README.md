@@ -14,9 +14,9 @@ Being specialized in domains like computer vision and natural language processin
 ## Session Outline
 
 ### Module 1: NLP Essentials
-Here we start with the basics of how to process and work with text data and strings. Look at essential components of a NLP pipeline and get started on some of the key components from this pipeline including understanding POS tagging, Named Entity Recognition, Spelling Correction and Text Pre-processing. We will look at traditional approaches as well as newer deep transfer learning based approaches for a few of these components.
+Here we start with the basics of how to process and work with text data and strings. Look at essential components of a NLP pipeline and get started on some of the key components from this pipeline including understanding POS tagging, Named Entity Recognition and Text Pre-processing. We will look at traditional approaches as well as newer deep transfer learning based approaches for a few of these components.
 
-__Key Focus Areas: Text Pre-processing, NER, POS Tagging, Spelling Corrections__
+__Key Focus Areas: Text Pre-processing, NER, POS Tagging__
 
 
 <br/>
