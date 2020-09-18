@@ -40,7 +40,7 @@ __Key Focus Areas: Topic Models, Similarity \ Information Retrieval, Summarizati
 ### Module 4: NLP Applications with Deep Transfer Learning
 We finally dive into some of the latest and best advancements which have happened in the last few years in the world of NLP, thanks to deep transfer learning. We will cover a deep conceptual understanding of the transformer architecture and look at some hands-on examples of text classification and multi-task NLP using transformers where we look at solving NER, Q&A, sentiment analysis, summarization, translation using effective constructs like the transformers pipeline.
 
-__Key Focus Areas: Text Classification (with pre-trained embeddings, universal sentence encoders and transformers), Multi-task NLP with transformer pipelines (sentiment analysis, NER, text generation, summarization, question-answering, translation). Fine-tuning\training transformers (tips \ guidelines)__
+__Key Focus Areas: Text Classification (with pre-trained embeddings, universal sentence encoders and transformers), Multi-task NLP with transformer pipelines (sentiment analysis, NER, text generation, summarization, question-answering, translation). Fine-tuning\training transformers (tips \ guidelines) with examples e.g NER__
 
 
 <br/>
